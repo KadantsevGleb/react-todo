@@ -87,4 +87,6 @@ label {
 	background: teal;
 	color: #fff;
 	border: none;
+	cursor: pointer;
+	border-radius: 8px;
 }
